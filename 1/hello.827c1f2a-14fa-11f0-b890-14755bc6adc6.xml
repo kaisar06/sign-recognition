@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collected_images</folder>
+	<filename>hello.827c1f2a-14fa-11f0-b890-14755bc6adc6.jpg</filename>
+	<path>C:\Users\samat\Desktop\RobVis\project\RealTimeObjectDetection\Tensorflow\workspace\images\collected_images\hello.827c1f2a-14fa-11f0-b890-14755bc6adc6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>115</ymin>
+			<xmax>339</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>
